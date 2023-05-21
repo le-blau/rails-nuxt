@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/le-blau/api.git
+[submodule "front"]
+	path = front
+	url = https://github.com/le-blau/front.git
